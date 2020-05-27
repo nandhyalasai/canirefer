@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-.section-header{
-    overflow-x: hidden;
-}
+
 
 
 .navbar-brand img {
@@ -18,9 +16,7 @@
     border-right: 1px solid black;
 }
 
-html {
-    /* overflow-x: hidden; */
-}
+
 
 .refers {
     border-bottom: 1px solid black;
@@ -76,8 +72,7 @@ html {
     height: 25px;
 }
 
-.footer-title{
-}
+
 
 .play-buttons {
     margin-bottom: 25px
